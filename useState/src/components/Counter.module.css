@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    margin-top: 3rem;
+}
+.countVariable{
+    margin-top: 7rem;
+    margin-bottom: 3rem;
+    font-weight: 900;
+    font-size: 30px;
+}
+.increamentButton{
+    padding: .8rem 2.5rem;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: large;
+    cursor: pointer;
+}
+.increamentButton:hover{
+    background-color: rgb(15, 15, 15);
+}
