@@ -8,14 +8,15 @@
     font-weight: 900;
     font-size: 30px;
 }
-.increamentButton{
+.Button{
     padding: .8rem 2.5rem;
     background-color: black;
     color: white;
     border: none;
     font-size: large;
     cursor: pointer;
+    margin:1rem 1rem;
 }
-.increamentButton:hover{
+.Button:hover{
     background-color: rgb(15, 15, 15);
 }
