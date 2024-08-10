@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 10%;
+}
+.container div{
+    box-shadow: rgba(128, 128, 128, 0.514) 0px 0px 20px 15px;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 2rem;
+    padding-top:0 ;
+}
+.heading,.description{
+    text-align: center;
+}
+.description{
+    margin-top: .5rem;
+    margin-bottom: 2rem;
+    font-size: large;
+    font-weight: 600;
+}
+.heading{
+    margin-top:1.5rem;
+    margin-bottom: 0;
+    font-size: 30px;
+}
+.Button{
+   background-color: black;
+   border: none;
+   margin: 2rem 1rem;
+   margin-bottom: 1rem;
+   width: 9rem;
+   padding: 10px 2rem;
+   color: white;
+   cursor: pointer;
+} 
+.Button:hover{
+    background-color: rgb(15, 15, 15);
+}
+.inputLabel{
+    font-weight: 700;
+    margin-left: 1rem;
+}
+.count{
+    margin-left: 7.5rem;
+}
